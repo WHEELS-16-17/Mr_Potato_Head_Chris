@@ -21,8 +21,10 @@ h1 {
 #body { 
   top: 28px; left: 68px; 
 }
-/* Insert CSS for arms below this line*/
 
+#arms_image {
+    top: 170px; left: 25px; 
+}
 
 
 
@@ -44,12 +46,15 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
+#mouth_image { top: 200px; left: 129px; z-index: 10; }
 
 
 
 
 /* Insert CSS for nose below this line*/
-
+#nose_image { 
+  top: 120px; left: 129px; 
+}
 
 
 
@@ -59,11 +64,18 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
+#glasses_image{
+  right:100px;
+  bottom:320px;
+  left:100px;
+}
 
 
 /* Insert CSS for hat below this line*/
+#hat_image{
+left:98px;
+top: 10px;
+}
 
 
 
