@@ -21,19 +21,28 @@ h1 {
 #body { 
   top: 28px; left: 68px; 
 }
-/* Insert CSS for arms below this line*/
 
+#arms_image {
+    top: 170px; left: 25px; 
+}
 
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image { 
+  bottom: 350px; right: 50px;
+  
+}
 
 
 
 /* Insert CSS for eyes below this line*/
 
 
+#eyes_image { 
+  bottom: 350px; right: 140px;
+  
+}
 
 
 /* Insert CSS for mouth below this line*/
@@ -42,8 +51,10 @@ h1 {
 
 
 
-/* Insert CSS for nose below this lifccne*/
-
+/* Insert CSS for nose below this line*/
+#nose_image { 
+  top: 120px; left: 129px; 
+}
 
 
 
