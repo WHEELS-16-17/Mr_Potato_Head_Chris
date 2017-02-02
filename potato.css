@@ -87,6 +87,10 @@ top: 10px;
 
 /* Insert CSS for moustache below this line*/
 
+#moustache_image { 
+  bottom: 250px; right: 95px;
+  
+}
 
 
 
